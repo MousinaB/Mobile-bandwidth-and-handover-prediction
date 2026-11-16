@@ -1,4 +1,4 @@
-# Mobile Bandwidth Prediction and Handover Prediction
+# Mobile Bandwidth and Handover Prediction
 
 ## Project Overview
 
